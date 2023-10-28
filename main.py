@@ -6,7 +6,7 @@ from PIL import Image
 from io import BytesIO
 import webbrowser
 
-openai.api_key = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+openai.api_key = 'apikey-xxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 app = Flask(__name__)
 
